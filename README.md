@@ -16,12 +16,14 @@ The evaluation and deployment of the model are streamlined using AWS SageMaker a
 
 ## SHAP Bar Plot
 ### SHAP profiling samples using bar plot individually 
-![shap_bar_plot_multiclass_Kenjiro_original_96](https://github.com/user-attachments/assets/cc791de0-b054-4604-8507-5549b5ee723e)
-![shap_bar_plot_multiclass_Linux,Mirai_original_96](https://github.com/user-attachments/assets/ad89e154-49af-4d7f-9277-e9c130450f2b)
-![shap_bar_plot_multiclass_Mirai_96](https://github.com/user-attachments/assets/36daf281-73fd-4e35-bd52-93f73011e063)
-![shap_bar_plot_multiclass_Mirai_original_96](https://github.com/user-attachments/assets/7e352e9c-8bd6-40e3-9d7e-77f8571bb37f)
-![shap_bar_plot_multiclass_Okiru_96](https://github.com/user-attachments/assets/0a8a0418-15eb-432b-852b-ab638a7c6be3)
-![shap_bar_plot_multiclass_Okiru_original_96](https://github.com/user-attachments/assets/74890547-e497-461b-bd0e-c530302ba317)
+
+![shap_bar_plot_multiclass_Gagfyt_original_96](https://github.com/user-attachments/assets/616363a8-3c78-496a-8335-4c9b0ad77d29)
+![shap_bar_plot_multiclass_IRCBot_original_96](https://github.com/user-attachments/assets/e5c43a53-d02b-42c5-b0ca-d8fa308e998a)
+![shap_bar_plot_multiclass_Kenjiro_original_96](https://github.com/user-attachments/assets/ce883848-3244-467c-9e12-4bfda53e2f6f)
+![shap_bar_plot_multiclass_Linux,Mirai_original_96](https://github.com/user-attachments/assets/169b91bf-0554-4053-8e3f-0add4a586e50)
+![shap_bar_plot_multiclass_Mirai_original_96](https://github.com/user-attachments/assets/5b487f8c-4f96-477d-94ac-ab629860e826)
+![shap_bar_plot_multiclass_Okiru_original_96](https://github.com/user-attachments/assets/5a3dfe75-53ab-4c5d-919a-24835adde9e0)
+
 
 
 ### SHAP profiling using bar plot collectivelly
