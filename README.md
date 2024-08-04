@@ -14,18 +14,18 @@ The evaluation and deployment of the model are streamlined using AWS SageMaker a
 - **Cloud Integration:** Employs AWS SageMaker for model building, training, and deployment.
 - **Data Handling:** Excels in managing sequential and imbalanced IoT data.
 
-### SHAP Bar Plot
-## SHAP profiling samples using bar plot individually 
+## SHAP Bar Plot
+### SHAP profiling samples using bar plot individually 
 ![shap_bar_plot_multiclass_Linux,Mirai_original_96](https://github.com/user-attachments/assets/e44a35fc-14ad-4901-806b-214394866a9a)
-## SHAP profiling using bar plot collectivelly
+### SHAP profiling using bar plot collectivelly
 ![shap_summary_plot_original_bar_single_96](https://github.com/user-attachments/assets/3420c0be-14cd-4767-a749-b53a69bd604e)
 
 
-### SHAP Violin Plot
-## SHAP profiling samples using violin plot individually 
+## SHAP Violin Plot
+### SHAP profiling samples using violin plot individually 
 ![shap_violin_multiclass_stick_Linux,Mirai_96](https://github.com/user-attachments/assets/e34e1184-8f05-4e8a-ba7c-42ba086e4a28)
 
-## SHAP profiling using violin plot collectivelly
+### SHAP profiling using violin plot collectivelly
 ![shap_violin_horizontal_seaborn_96](https://github.com/user-attachments/assets/286bea35-4092-4c70-9aa9-ff56dbc553ee)
 
 
