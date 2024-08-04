@@ -16,14 +16,26 @@ The evaluation and deployment of the model are streamlined using AWS SageMaker a
 
 ## SHAP Bar Plot
 ### SHAP profiling samples using bar plot individually 
-![shap_bar_plot_multiclass_Linux,Mirai_original_96](https://github.com/user-attachments/assets/e44a35fc-14ad-4901-806b-214394866a9a)
+![shap_bar_plot_multiclass_Kenjiro_original_96](https://github.com/user-attachments/assets/cc791de0-b054-4604-8507-5549b5ee723e)
+![shap_bar_plot_multiclass_Linux,Mirai_original_96](https://github.com/user-attachments/assets/ad89e154-49af-4d7f-9277-e9c130450f2b)
+![shap_bar_plot_multiclass_Mirai_96](https://github.com/user-attachments/assets/36daf281-73fd-4e35-bd52-93f73011e063)
+![shap_bar_plot_multiclass_Mirai_original_96](https://github.com/user-attachments/assets/7e352e9c-8bd6-40e3-9d7e-77f8571bb37f)
+![shap_bar_plot_multiclass_Okiru_96](https://github.com/user-attachments/assets/0a8a0418-15eb-432b-852b-ab638a7c6be3)
+![shap_bar_plot_multiclass_Okiru_original_96](https://github.com/user-attachments/assets/74890547-e497-461b-bd0e-c530302ba317)
+
+
 ### SHAP profiling using bar plot collectivelly
 ![shap_summary_plot_original_bar_single_96](https://github.com/user-attachments/assets/3420c0be-14cd-4767-a749-b53a69bd604e)
 
 
 ## SHAP Violin Plot
-### SHAP profiling samples using violin plot individually 
-![shap_violin_multiclass_stick_Linux,Mirai_96](https://github.com/user-attachments/assets/e34e1184-8f05-4e8a-ba7c-42ba086e4a28)
+### SHAP profiling using violin plot individually 
+![shap_violin_multiclass_stick_IRCBot_96](https://github.com/user-attachments/assets/a1029e39-4318-4112-b1f9-f1c9eacddf0d)
+![shap_violin_multiclass_stick_Gagfyt_96](https://github.com/user-attachments/assets/1a2fd155-d0a0-4446-a262-42985e2a2b13)
+![shap_violin_multiclass_stick_Kenjiro_96](https://github.com/user-attachments/assets/005d3455-3c71-4116-ac6c-87ffe0b944af)
+![shap_violin_multiclass_stick_Linux,Mirai_96](https://github.com/user-attachments/assets/4ec3d086-7343-4e77-a2ee-3dde638b2213)
+![shap_violin_multiclass_stick_Okiru_96](https://github.com/user-attachments/assets/c298b761-2891-44a7-9414-adeafaf2a220)
+![shap_violin_multiclass_stick_Mirai_96](https://github.com/user-attachments/assets/7fe24378-eb61-4672-9d03-d6189f539986)
 
 ### SHAP profiling using violin plot collectivelly
 ![shap_violin_horizontal_seaborn_96](https://github.com/user-attachments/assets/286bea35-4092-4c70-9aa9-ff56dbc553ee)
